@@ -1,6 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently a second-yead master candidate of Guangdong University of Technology.
 - 🌱 I’m currently learning low-level image processing, especially image denoising and super resolution.
+- 🤔 I'm looking for a Ph.D. application for 2022.
 - 📫 How to reach me: lihao9605@gmail.com
 <!--
 **House-Leo/House-Leo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
