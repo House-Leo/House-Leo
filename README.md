@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning low-level image processing, especially image denoising and super resolution.
 - 🤔 I'm looking for a Ph.D. application for 2022.
 - 📫 Please contact me: lihao9605@gmail.com
+- ⚡ I am happy to announce that I got the Ph.D. offers from [Prof. Lizhi Wang](https://vmcl.bit.edu.cn/xztd/js/fjs/b152329.htm) and [Prof. Jinshan Pan](https://jspan.github.io/).
 <!--
 **House-Leo/House-Leo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
