@@ -7,8 +7,10 @@
 
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=House-Leo&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=monokai&line_height=27&text_color=FFFFFF" alt="House-Leo's github stats"/>
+</p>
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=House-Leo&bg_color=071A2C&text_color=FFFFFF" alt="House-Leo's top langs"/>
+<p align='center'>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=House-Leo&bg_color=071A2C&text_color=FFFFFF" alt="House-Leo's top langs"/>
 </p>
 
 <!--
