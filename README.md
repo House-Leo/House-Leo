@@ -1,11 +1,10 @@
 ### Hi there 👋
 - 🔭 I’m currently a third-year master candidate of Guangdong University of Technology.
 - 🌱 I’m currently learning low-level image processing, especially image denoising and super resolution.
-<!-- - 🤔 I'm looking for a Ph.D. application for 2022. -->
 - 📫 Please contact me: lihao9605@gmail.com .
 - ⚡ I will go to [Nanjing University of Science and Technology](https://www.njust.edu.cn/) for my Ph.D. in 2022, advised by [Prof. Jinshan Pan](https://jspan.github.io/).
 <!-- [Prof. Lizhi Wang](https://vmcl.bit.edu.cn/xztd/js/fjs/b152329.htm). -->
-
+<!-- - 🤔 I'm looking for a Ph.D. application for 2022. -->
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=House-Leo&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=monokai&line_height=27&text_color=FFFFFF" alt="House-Leo's github stats"/>
 </p>
