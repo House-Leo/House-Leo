@@ -2,7 +2,7 @@
 - 🔭 I’m currently a third-year master candidate of Guangdong University of Technology.
 - 🌱 I’m currently learning low-level image processing, especially image denoising and super resolution.
 - 📫 Please contact me: lihao9605@gmail.com .
-- ⚡ I will go to [Nanjing University of Science and Technology](https://www.njust.edu.cn/) for my Ph.D. in 2022, advised by [Prof. Jinshan Pan](https://jspan.github.io/).
+- ⚡ I will go to [Nanjing University of Science and Technology](http://www.njust.edu.cn/) (**[IMAG](https://imag-njust.net/)**) for my Ph.D. in 2022, advised by [Prof. Jinshan Pan](https://jspan.github.io/).
 <!-- [Prof. Lizhi Wang](https://vmcl.bit.edu.cn/xztd/js/fjs/b152329.htm). -->
 <!-- - 🤔 I'm looking for a Ph.D. application for 2022. -->
 <p align='center'>
