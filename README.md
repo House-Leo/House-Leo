@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <p align="center">
   <strong>Please feel free to contact me via email or the following platform!</strong>
   <br><br>
-  <a href= "lihao9605@gmail.com" target="_blank" alt="GMail" title="GMail">
+  <a href= "mailto:lihao9605@gmail.com" target="_blank" alt="GMail" title="GMail">
     <img src="https://img.icons8.com/external-kiranshastry-solid-kiranshastry/64/000000/external-email-advertising-kiranshastry-solid-kiranshastry-1.png" width="28px"/>
   </a>
   &emsp;
