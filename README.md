@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-😄 **About me: ⬇️**
+😄 **About Me: ⬇️**
 - I’m currently a third-year master candidate of [Guangdong University of Technology](http://www.gdut.edu.cn).
 - I’m currently learning low-level image processing, especially image denoising and super resolution.
 <!-- - 📫 Please contact me: lihao9605@gmail.com . -->
