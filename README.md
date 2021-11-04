@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 😄 **About me: ⬇️**
-- 🔭 I’m currently a third-year master candidate of Guangdong University of Technology.
+- 🔭 I’m currently a third-year master candidate of [Guangdong University of Technology](http://www.gdut.edu.cn).
 - 🌱 I’m currently learning low-level image processing, especially image denoising and super resolution.
 <!-- - 📫 Please contact me: lihao9605@gmail.com . -->
 
@@ -63,11 +63,10 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<h2></h2>
-
+---
+📫 **My Skills: ⬇️**
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
- 
-**Languages and Frameworks**
+- **Languages and Frameworks**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" title="Python"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" alt="JSON" title="JSON"></code>
@@ -76,7 +75,7 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" alt="Latex" title="Latex"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/Charmve/Charmve/master/OctoCharmve/pytorch-logo.png" alt="Pytorch" title="Pytorch"></code>
 
-**Tools and Environments**
+- **Tools and Environments**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VSCode" title="VSCode"></code>
 <code><img height="20" src="https://images.nowcoder.com/images/20180629/0_1530258305740_67F7BB46DE9FC78164CA628F2CE05C37" alt="PyCharm" title="PyCharm"></code>
