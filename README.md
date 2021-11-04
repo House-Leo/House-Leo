@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+😄 **About me: ⬇️**
 - 🔭 I’m currently a third-year master candidate of Guangdong University of Technology.
 - 🌱 I’m currently learning low-level image processing, especially image denoising and super resolution.
-- 📫 Please contact me: lihao9605@gmail.com .
+<!-- - 📫 Please contact me: lihao9605@gmail.com . -->
 
 <p align="center">
   <a href="https://github.com/House-Leo" class="rich-diff-level-one">
@@ -27,6 +27,12 @@ Here are some ideas to get you started:
 
 
 <p align="center">
+  <strong>Please feel free to contact me via email or the following platform!</strong>
+  <br><br>
+  <a href= "lihao9605@gmail.com" target="_blank" alt="GMail" title="GMail">
+    <img src="https://img.icons8.com/external-kiranshastry-solid-kiranshastry/64/000000/external-email-advertising-kiranshastry-solid-kiranshastry-1.png" width="28px"/>
+  </a>
+  &emsp;
   <a href= "https://scholar.google.com/citations?user=x2qkLiYAAAAJ" target="_blank" alt="Google_Scholar" title="Google_Scholar">
     <img src="https://img.icons8.com/ios-filled/50/000000/google-scholar--v2.png" width="28px"/>
   </a>
@@ -43,8 +49,6 @@ Here are some ideas to get you started:
     <img src="https://img.icons8.com/ios-filled/256/000000/linkedin.svg" width="26px"/>
   </a>
   <br><br>
-  <strong>Check out my work below!</strong>
-  <br><br>
   <a href="https://github.com/House-Leo">
     <img src="https://badges.pufler.dev/visits/House-Leo/House-Leo?style=flat-square&color=black&logo=github">
   </a>
@@ -59,5 +63,40 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-🚧 **My Todoist Stats: ⬇️**
-- ⚡ I will go to [Nanjing University of Science and Technology](http://www.njust.edu.cn/) (**[IMAG](https://imag-njust.net/)**) for my Ph.D. in 2022, advised by [Prof. Jinshan Pan](https://jspan.github.io/).
+<h2></h2>
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
+ 
+**Languages and Frameworks**
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" title="Python"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" alt="JSON" title="JSON"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" title="Git"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" title="Docker"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" alt="Latex" title="Latex"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/Charmve/Charmve/master/OctoCharmve/pytorch-logo.png" alt="Pytorch" title="Pytorch"></code>
+
+**Tools and Environments**
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VSCode" title="VSCode"></code>
+<code><img height="20" src="https://images.nowcoder.com/images/20180629/0_1530258305740_67F7BB46DE9FC78164CA628F2CE05C37" alt="PyCharm" title="PyCharm"></code>
+<code><img height="20" src="https://camo.githubusercontent.com/ce9fb3389462f2c9444f863e410f0d17d04b216beba8749a015011887eadfbaf/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6f70656e63762f6f70656e63762d69636f6e2e737667" alt="OpenCV" title="OpenCV"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" alt="Vim" title="Vim"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" alt="Markdown" title="MarkDown"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" alt="Matlab" title="Matlab"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" title="Ubuntu"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" alt="MacOS" title="MacOS"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" title="Linux"></code>
+
+<br>
+
+---
+
+🚧 **My Future: ⬇️**
+- ⚡ I will go to **[IMAG](https://imag-njust.net/)** ([Nanjing University of Science and Technology](http://www.njust.edu.cn/)) for my Ph.D. in 2022, advised by [Prof. Jinshan Pan](https://jspan.github.io/).
+
+---
+
+⚡ **Acknowledgement: **
+- Thanks for my cooperators: [Prof. Jinshan Pan](https://jspan.github.io/), [Dr. Yukai Shi](https://ykshi.github.io/), ...
+- Thank you [Wei Zhang](https://github.com/Charmve) for the template of Github Page.
