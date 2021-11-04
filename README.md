@@ -54,9 +54,6 @@ Here are some ideas to get you started:
   <a href="https://github.com/House-Leo?tab=repositories">
     <img src="https://badges.pufler.dev/repos/House-Leo?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://gist.github.com/House-Leo">
-    <img src="https://badges.pufler.dev/gists/House-Leo?style=flat-square&color=black&logo=github">
-  </a>
   <a href="https://github.com/House-Leo">
     <img src="https://badges.pufler.dev/commits/monthly/House-Leo?style=flat-square&color=black&logo=github">
   </a>
