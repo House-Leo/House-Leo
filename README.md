@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 😄 **About me: ⬇️**
-- 🔭 I’m currently a third-year master candidate of [Guangdong University of Technology](http://www.gdut.edu.cn).
-- 🌱 I’m currently learning low-level image processing, especially image denoising and super resolution.
+- I’m currently a third-year master candidate of [Guangdong University of Technology](http://www.gdut.edu.cn).
+- I’m currently learning low-level image processing, especially image denoising and super resolution.
 <!-- - 📫 Please contact me: lihao9605@gmail.com . -->
 
 <p align="center">
@@ -91,8 +91,8 @@ Here are some ideas to get you started:
 
 ---
 
-🚧 **My Future: ⬇️**
-- ⚡ I will go to **[IMAG](https://imag-njust.net/)** ([Nanjing University of Science and Technology](http://www.njust.edu.cn/)) for my Ph.D. in 2022, advised by [Prof. Jinshan Pan](https://jspan.github.io/).
+🌱 **My Future: ⬇️**
+- I will go to **[IMAG](https://imag-njust.net/)** ([Nanjing University of Science and Technology](http://www.njust.edu.cn/)) for my Ph.D. in 2022, advised by [Prof. Jinshan Pan](https://jspan.github.io/).
 
 ---
 
