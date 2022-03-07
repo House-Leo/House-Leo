@@ -37,17 +37,6 @@ Here are some ideas to get you started:
     <img src="https://img.icons8.com/ios-filled/50/000000/google-scholar--v2.png" width="28px"/>
   </a>
   &emsp;
-  <a href="https://www.zhihu.com/people/li-hao-79-49-22-36" target="_blank" alt="Zhihu" title="Zhihu">
-    <img src="https://img.icons8.com/material-two-tone/50/000000/zhihu.png" width="28px"/>
-  </a>
-  &emsp;
-  <a href="https://space.bilibili.com/2320790" target="_blank" alt="Bilibili" title="Bilibili">
-    <img src="https://user-images.githubusercontent.com/29084184/129467562-a754907c-c128-40d0-80ad-86e89bdda3d6.png" width="30px"/>
-  </a> 
-  &emsp;
-  <a href="https://www.linkedin.com/in/hao-li-a01064175/" target="_blank" alt="LinkedIn" title="LinkedIn">
-    <img src="https://img.icons8.com/ios-filled/256/000000/linkedin.svg" width="26px"/>
-  </a>
   <br><br>
   <a href="https://github.com/House-Leo">
     <img src="https://badges.pufler.dev/visits/House-Leo/House-Leo?style=flat-square&color=black&logo=github">
