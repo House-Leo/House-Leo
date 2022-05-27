@@ -21,10 +21,11 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/House-Leo" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=House-Leo&title_color=333&text_color=777" alt="House-Leo's github stats" >
+    <img src="https://github-readme-stats.vercel.app/api?username=House-Leo&show_icons=true&theme=tokyonight" alt="House-Leo's github stats" >
   </a>
 </p>
 
+<!-- &title_color=333&text_color=777 -->
 
 <p align="center">
   <strong>Please feel free to contact me via email or the following platform!</strong>
