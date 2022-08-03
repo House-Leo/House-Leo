@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 😄 **About Me: ⬇️**
 - I’m currently a first-year Ph.D. candidate of **[IMAG](https://imag-njust.net/)** ([Nanjing University of Science and Technology](http://www.njust.edu.cn/)), advised by [Prof. Jinshan Pan](https://jspan.github.io/).
 - I’m currently learning low-level image processing, especially image denoising and super resolution.
-<!-- - 📫 Please contact me: lihao9605@gmail.com . -->
+<!-- - 📫 Please contact me: haoli@njust.edu.cn . -->
 
 <p align="center">
   <a href="https://github.com/House-Leo" class="rich-diff-level-one">
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <p align="center">
   <strong>Please feel free to contact me via email or the following platform!</strong>
   <br><br>
-  <a href= "mailto:lihao9605@gmail.com" target="_blank" alt="GMail" title="GMail">
+  <a href= "mailto:haoli@njust.edu.cn" target="_blank" alt="GMail" title="GMail">
     <img src="https://img.icons8.com/external-kiranshastry-solid-kiranshastry/64/000000/external-email-advertising-kiranshastry-solid-kiranshastry-1.png" width="28px"/>
   </a>
   &emsp;
