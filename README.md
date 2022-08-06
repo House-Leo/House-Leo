@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 📫 **Academic Service: ⬇️**
 - Conference Reviewer
--- ECCV 2022, AAAI 2023
+  - ECCV 2022, AAAI 2023
 
 <!--
 ---
