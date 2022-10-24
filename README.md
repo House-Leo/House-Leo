@@ -40,16 +40,16 @@ Here are some ideas to get you started:
   &emsp;
   <br><br>
   <a href="https://github.com/House-Leo">
-    <img src="https://badges.pufler.dev/visits/House-Leo/House-Leo?style=flat-square&color=black&logo=github">
+    <img src="https://badges.strrl.dev/visits/House-Leo/House-Leo?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://github.com/House-Leo">
-    <img src="https://badges.pufler.dev/years/House-Leo?style=flat-square&color=black&logo=github">
+    <img src="https://badges.strrl.dev/years/House-Leo?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://github.com/House-Leo?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/House-Leo?style=flat-square&color=black&logo=github">
+    <img src="https://badges.strrl.dev/repos/House-Leo?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://github.com/House-Leo">
-    <img src="https://badges.pufler.dev/commits/monthly/House-Leo?style=flat-square&color=black&logo=github">
+    <img src="https://badges.strrl.dev/commits/monthly/House-Leo?style=flat-square&color=black&logo=github">
   </a>
 </p>
 
