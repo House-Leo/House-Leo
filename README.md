@@ -42,20 +42,22 @@ Here are some ideas to get you started:
   <a href="https://github.com/House-Leo">
     <img src="https://badges.strrl.dev/visits/House-Leo/House-Leo?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://github.com/House-Leo">
-    <img src="https://badges.strrl.dev/years/House-Leo?style=flat-square&color=black&logo=github">
-  </a>
   <a href="https://github.com/House-Leo?tab=repositories">
     <img src="https://badges.strrl.dev/repos/House-Leo?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://github.com/House-Leo">
     <img src="https://badges.strrl.dev/commits/monthly/House-Leo?style=flat-square&color=black&logo=github">
   </a>
+<!--   <a href="https://github.com/House-Leo">
+    <img src="https://badges.strrl.dev/updated/House-Leo?style=flat-square&color=black&logo=github">
+  </a> -->
 </p>
 
 📫 **Academic Service: ⬇️**
 - Conference Reviewer
-  - ECCV 2022, AAAI 2023
+  - ECCV 2022
+  - AAAI 2023
+  - CVPR 2023
 
 <!--
 ---
