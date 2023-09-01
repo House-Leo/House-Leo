@@ -57,6 +57,7 @@ Here are some ideas to get you started:
 - Conference Reviewer
   - ECCV 2022
   - AAAI 2023, CVPR 2023, ICCV 2023
+  - AAAI 2024
 
 <!--
 ---
