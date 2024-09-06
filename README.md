@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 😄 **About Me: ⬇️**
-- I’m currently a second-year Ph.D. candidate of **[IMAG](https://imag-njust.net/)** ([Nanjing University of Science and Technology](http://www.njust.edu.cn/)), advised by [Prof. Jinshan Pan](https://jspan.github.io/).
+- I’m currently a third-year Ph.D. candidate of **[IMAG](https://imag-njust.net/)** ([Nanjing University of Science and Technology](http://www.njust.edu.cn/)), advised by [Prof. Jinshan Pan](https://jspan.github.io/).
 - I’m currently learning low-level image processing, especially image denoising and super resolution.
 <!-- - 📫 Please contact me: haoli@njust.edu.cn . -->
 
