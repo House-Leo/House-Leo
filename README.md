@@ -55,10 +55,11 @@ Here are some ideas to get you started:
 
 📫 **Academic Service: ⬇️**
 - Conference Reviewer
-  - ECCV 2022
-  - AAAI 2023, CVPR 2023, ICCV 2023
-  - AAAI 2024, CVPR 2024, ECCV 2024
-  - AAAI 2025, ICLR 2025
+  - CVPR 2023-2025
+  - ICCV 2023
+  - ECCV 2022, 2024
+  - AAAI 2023-2025
+  - ICLR 2025
 - Journal Reviewer
   - TPAMI, TIP, TMM, TNNLS, CVIU, ...
 
